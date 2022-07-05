@@ -1,0 +1,42 @@
+body{
+    margin:0px;
+    
+    font-family: 'Ubuntu', sans-serif;
+}
+#banner{
+    
+    background:linear-gradient(rgba(0,0,0,0.5),#009), url(image/banner.png);
+    background-repeat:no-repeat;
+    background-position:center;
+    background-size:cover;
+    height:600px;
+
+}
+.banner-text{
+    
+    text-align:center;
+    color:white;
+    padding-top:160px;
+}
+.banner-text h1{
+    font-size:40px;
+    color:yellow;
+}
+.banner-text p{
+    font-size:20px;
+}
+.button-link{
+    text-decoration:none;
+    background-color:yellow;
+    
+color:black;
+height: 700px;
+    padding:10px 20px;
+    border-radius:5px;
+}
+#Donate-today{
+    margin-top:100px;
+}
+.Donate-text{
+    text-align:center;
+}
