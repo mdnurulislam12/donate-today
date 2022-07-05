@@ -40,3 +40,39 @@ height: 700px;
 .Donate-text{
     text-align:center;
 }
+
+ul{
+    list-style-type:none;
+}
+
+.donate-canter{
+    padding:5%;
+    text-align:center;
+
+}
+.donate-canter ul{
+    
+    display:inline;
+    display:flex;
+    align-items:center;
+    
+}
+.donate-canter li{
+    padding:10%;
+    background-color:rgb(234, 234, 234);
+    margin:20px;
+   
+}
+#naver{
+    border:2px solid rgb(255, 255, 0);
+    background-color:rgb(255, 255, 208);
+    
+}
+.Other{
+    text-align:center;
+
+}
+
+#center{
+    padding-top:30px;
+}
